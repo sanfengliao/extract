@@ -1,6 +1,6 @@
 ### 实现简单的DOM-Diff算法
 
-[github传送门](https://github.com/sanfengliao/extract)
+[github传送门](https://github.com/sanfengliao/extract/tree/master/DOM-Diff)
 
 #### 什么是虚拟DOM
 
